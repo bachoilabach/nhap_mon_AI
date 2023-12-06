@@ -1,0 +1,9 @@
+Bài 14: Kiểm tra xem các câu (sentence) sau đây là đúng đắn, không thỏa mãn được hoặc không rơi vào 2 trường hợp này. 
+Dùng bảng chân lý hoặc các luật tương đương logic
+a) Smoke -> Smoke
+b) Smoke -> Fire
+c) (Smoke  -> Fire) -> ( ¬ Smoke  ->¬ Fire)
+d) Smoke ∨ Fire ∨ ¬ Fire
+e) ((Smoke ∧ Heat) ->Fire) ->((Smoke ->Fire) ∨ (Heat ->Fire))
+f) (Smoke ->Fire) ->((Smoke ∧ Heat) ->Fire)
+g) Big ∨ Dumb ∨ (Big ->Dumb)
